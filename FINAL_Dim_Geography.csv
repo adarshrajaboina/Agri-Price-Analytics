@@ -1,0 +1,55 @@
+Mandi_ID,State,District,Mandi_Name,Latitude,Longitude,Region,Country,Zone,Market_Type,Urban_Rural,Population,Connectivity,Climate,Rainfall,Temperature,Elevation
+1,Maharashtra,Pune,Pune APMC 1,18.52041376371797,73.88979903105677,Maharashtra,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+2,Maharashtra,Pune,Pune APMC 2,18.50213904291634,73.90384042223725,Maharashtra,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+3,Maharashtra,Pune,Pune APMC 3,18.47974632334452,73.8652586646842,Maharashtra,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+4,Maharashtra,Nashik,Nashik APMC 1,19.97172176436636,73.8079440265464,Maharashtra,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+5,Maharashtra,Nashik,Nashik APMC 2,19.96701530605677,73.80378397656098,Maharashtra,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+6,Karnataka,Bangalore Rural,Bangalore Rural APMC 1,13.27258827097724,77.55312960152135,Karnataka,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+7,Karnataka,Bangalore Rural,Bangalore Rural APMC 2,13.27887806713127,77.52238663225853,Karnataka,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+8,Karnataka,Bangalore Rural,Bangalore Rural APMC 3,13.251806817149042,77.4912252878853,Karnataka,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+9,Karnataka,Mysore,Mysore APMC 1,12.281138415570217,76.63861021056388,Karnataka,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+10,Karnataka,Mysore,Mysore APMC 2,12.254955422726438,76.68516094831283,Karnataka,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+11,Karnataka,Mysore,Mysore APMC 3,12.312356215621213,76.59965349812876,Karnataka,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+12,Telangana,Warangal,Warangal APMC 1,18.002668304677723,79.64277885380744,Telangana,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+13,Telangana,Warangal,Warangal APMC 2,18.007809613547582,79.59692742659256,Telangana,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+14,Telangana,Warangal,Warangal APMC 3,17.981713174518205,79.63891225427392,Telangana,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+15,Telangana,Karimnagar,Karimnagar APMC 1,18.41269255924716,79.10417038075121,Telangana,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+16,Telangana,Karimnagar,Karimnagar APMC 2,18.426886279669496,79.09330121673963,Telangana,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+17,Telangana,Karimnagar,Karimnagar APMC 3,18.42236557131909,79.14723546012483,Telangana,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+18,Andhra Pradesh,Guntur,Guntur APMC 1,16.337609922966795,80.42680549692629,Andhra Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+19,Andhra Pradesh,Guntur,Guntur APMC 2,16.331283398426056,80.39652037591539,Andhra Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+20,Andhra Pradesh,Kurnool,Kurnool APMC 1,15.819102152331206,77.98999041538497,Andhra Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+21,Andhra Pradesh,Kurnool,Kurnool APMC 2,15.847596162089417,78.06570332361831,Andhra Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+22,Gujarat,Ahmedabad,Ahmedabad APMC 1,23.00336279898512,72.54393991111246,Gujarat,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+23,Gujarat,Ahmedabad,Ahmedabad APMC 2,23.06827144487106,72.53017763610316,Gujarat,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+24,Gujarat,Ahmedabad,Ahmedabad APMC 3,22.972933510860933,72.58869349022864,Gujarat,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+25,Gujarat,Surat,Surat APMC 1,21.17191173046352,72.8059464604703,Gujarat,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+26,Gujarat,Surat,Surat APMC 2,21.18085008630101,72.85479084948459,Gujarat,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+27,Gujarat,Surat,Surat APMC 3,21.217590567343706,72.81911089468025,Gujarat,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+28,Rajasthan,Jaipur,Jaipur APMC 1,26.908749617829898,75.80147152406559,Rajasthan,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+29,Rajasthan,Jaipur,Jaipur APMC 2,26.916336526884475,75.75318975124347,Rajasthan,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+30,Rajasthan,Jaipur,Jaipur APMC 3,26.921327303062405,75.8259528649434,Rajasthan,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+31,Rajasthan,Udaipur,Udaipur APMC 1,24.618951015458205,73.75053427414294,Rajasthan,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+32,Rajasthan,Udaipur,Udaipur APMC 2,24.5855311699875,73.68116062176621,Rajasthan,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+33,Madhya Pradesh,Indore,Indore APMC 1,22.690621203389885,75.86231072586952,Madhya Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+34,Madhya Pradesh,Indore,Indore APMC 2,22.74948295904904,75.88359477695911,Madhya Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+35,Madhya Pradesh,Indore,Indore APMC 3,22.705395454980707,75.81890852159064,Madhya Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+36,Madhya Pradesh,Bhopal,Bhopal APMC 1,23.270914304507556,77.40491435213464,Madhya Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+37,Madhya Pradesh,Bhopal,Bhopal APMC 2,23.301876463381344,77.42677862977048,Madhya Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+38,Madhya Pradesh,Bhopal,Bhopal APMC 3,23.249769449144967,77.38895891808733,Madhya Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+39,Uttar Pradesh,Lucknow,Lucknow APMC 1,26.81564076840301,80.92557948504606,Uttar Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+40,Uttar Pradesh,Lucknow,Lucknow APMC 2,26.857649049847947,80.97733436971161,Uttar Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+41,Uttar Pradesh,Kanpur,Kanpur APMC 1,26.45317190712833,80.30225347179204,Uttar Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+42,Uttar Pradesh,Kanpur,Kanpur APMC 2,26.48323747742544,80.30231990625929,Uttar Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+43,Uttar Pradesh,Kanpur,Kanpur APMC 3,26.424725353152123,80.30108511428719,Uttar Pradesh,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+44,Punjab,Ludhiana,Ludhiana APMC 1,30.87820668366053,75.83572840597185,Punjab,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+45,Punjab,Ludhiana,Ludhiana APMC 2,30.8518299986704,75.87654308907562,Punjab,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+46,Punjab,Ludhiana,Ludhiana APMC 3,30.92759483026756,75.81054277729237,Punjab,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+47,Punjab,Amritsar,Amritsar APMC 1,31.64388836495703,74.87308448532241,Punjab,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+48,Punjab,Amritsar,Amritsar APMC 2,31.63176503773983,74.82848802112461,Punjab,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+49,Punjab,Amritsar,Amritsar APMC 3,31.62944348665748,74.85105595650907,Punjab,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+50,Haryana,Hisar,Hisar APMC 1,29.115810066013324,75.71576876812318,Haryana,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+51,Haryana,Hisar,Hisar APMC 2,29.19338251242722,75.67444020977972,Haryana,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+52,Haryana,Karnal,Karnal APMC 1,29.73357527157195,77.03377310855095,Haryana,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+53,Haryana,Karnal,Karnal APMC 2,29.693151009952487,77.03860548384102,Haryana,India,South,APMC,Rural,100000,5,Tropical,500,30,300
+54,Haryana,Karnal,Karnal APMC 3,29.73481980103192,76.97609397100173,Haryana,India,South,APMC,Rural,100000,5,Tropical,500,30,300

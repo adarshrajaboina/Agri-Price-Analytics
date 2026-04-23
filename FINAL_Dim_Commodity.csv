@@ -1,0 +1,21 @@
+Commodity_ID,Commodity_Name,Category,Variety,Grade,Category_Type,Shelf_Life,Perishable,Demand_Level,Avg_Price,Export,Import,Color,Weight,Seasonal,Organic
+1,Rice,Cereals,Rice,A,Cereals,10,Low,Medium,0,No,No,NA,1,Yes,No
+2,Wheat,Pulses,Wheat,A,Pulses,10,Low,Medium,0,No,No,NA,1,Yes,No
+3,Maize,Oilseeds,Maize,A,Oilseeds,10,Low,Medium,0,No,No,NA,1,Yes,No
+4,Bajra,Vegetables,Bajra,A,Vegetables,10,High,Medium,0,No,No,NA,1,Yes,No
+5,Gram,Fruits,Gram,A,Fruits,10,Low,Medium,0,No,No,NA,1,Yes,No
+6,Tur Dal,Spices,Tur Dal,A,Spices,10,Low,Medium,0,No,No,NA,1,Yes,No
+7,Moong,Cash Crops,Moong,A,Cash Crops,10,Low,Medium,0,No,No,NA,1,Yes,No
+8,Groundnut,Fibers,Groundnut,A,Fibers,10,Low,Medium,0,No,No,NA,1,Yes,No
+9,Soybean,Plantation,Soybean,A,Plantation,10,Low,Medium,0,No,No,NA,1,Yes,No
+10,Mustard,Others,Mustard,A,Others,10,Low,Medium,0,No,No,NA,1,Yes,No
+11,Potato,Cereals,Potato,A,Cereals,10,Low,Medium,0,No,No,NA,1,Yes,No
+12,Onion,Pulses,Onion,A,Pulses,10,Low,Medium,0,No,No,NA,1,Yes,No
+13,Tomato,Oilseeds,Tomato,A,Oilseeds,10,Low,Medium,0,No,No,NA,1,Yes,No
+14,Brinjal,Vegetables,Brinjal,A,Vegetables,10,High,Medium,0,No,No,NA,1,Yes,No
+15,Cabbage,Fruits,Cabbage,A,Fruits,10,Low,Medium,0,No,No,NA,1,Yes,No
+16,Apple,Spices,Apple,A,Spices,10,Low,Medium,0,No,No,NA,1,Yes,No
+17,Banana,Cash Crops,Banana,A,Cash Crops,10,Low,Medium,0,No,No,NA,1,Yes,No
+18,Mango,Fibers,Mango,A,Fibers,10,Low,Medium,0,No,No,NA,1,Yes,No
+19,Chilli,Plantation,Chilli,A,Plantation,10,Low,Medium,0,No,No,NA,1,Yes,No
+20,Cotton,Others,Cotton,A,Others,10,Low,Medium,0,No,No,NA,1,Yes,No
